@@ -1,0 +1,55 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	background-color: RGB(238, 238, 238);
+}
+
+.paper_list{
+	margin: 4px 30% 0px 30%;
+	padding: 1px 3.83% 76px 3.83%;
+	background-color: white;
+	box-shadow: 0 0 4px RGBA(128, 128, 128, 0.6);
+}
+
+.fio{
+	margin-top: 48px;
+	margin-bottom: 20px;
+	text-align: center;
+	font: bolder 22px Times,Sans-serif;
+	}
+
+.photo{
+	display: block;
+	margin: auto;
+	margin-bottom: 12px;
+}
+
+.general_section{
+	margin-left: 13px;
+	font: normal 18px Times,Sans-serif;
+}
+
+.new_subsection{
+	margin-left: -13px;
+	margin-top: 17px;
+	border-top: 1px solid RGB(128,122,122);
+}
+
+p {
+	margin-top: 25px;
+	margin-bottom: 4px;
+}
+
+ul {
+	margin-top: 28px;
+	margin-bottom: 17px;
+	padding-left: 1.4em;
+	line-height: 26px;
+}
+
+a:visited {
+	color: blue;
+}
